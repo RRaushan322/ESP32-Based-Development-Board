@@ -1,7 +1,7 @@
 
 # ESP32-Based Development Board
 
-![Project Banner](link-to-your-image) <!-- Optional: Add an image or a banner that represents your project -->
+![Project Banner](https://github.com/RRaushan322/ESP32-Based-Development-Board/blob/main/Screenshot%202024-09-11%20161129.png) <!-- Optional: Add an image or a banner that represents your project -->
 
 ## Overview
 
